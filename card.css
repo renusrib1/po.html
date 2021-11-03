@@ -1,0 +1,110 @@
+.cardbody{
+    border: 5px solid black;
+    padding: 4%   ;
+    margin: 2%;
+    font-size: 18px;
+    width: 20%;
+    text-align: center;
+    border-radius: 5%;
+
+}
+.cardbody{
+    border: 5px solid black;
+    padding: 4%   ;
+    margin: 2%;
+    font-size: 18px;
+    width: 20%;
+    text-align: center;
+    border-radius: 5%;
+
+}
+.cardbody img{
+    width: 90%;
+    display: 45%;
+    margin-left: auto;
+    margin-right: auto;
+}
+s{
+    color: brown;
+}
+button{
+    padding: auto;
+    background-color: chartreuse;
+    color: rgb(7, 8, 8);
+    border: black;
+}
+.card{
+    display: flex;
+    flex-wrap: wrap;
+}
+@media only screen and (min-width: 320px) and (max-width: 455px){
+    .cardbody{
+        border: 5px soild black;
+        padding: 1%   ;
+        margin: 1%;
+        font-size: 18px;
+        width: 20%;
+        text-align: center;
+        border-radius: 5%;
+    
+    }
+    
+    .cardbody img{
+        width: 40%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    s{
+        color: brown;
+    }
+    button{
+        padding: auto;
+        background-color: chartreuse;
+        color: rgb(7, 8, 8);
+        border: black;
+    }
+    .card{
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+@media only screen and (min-width:481px) and (max-width:768px){
+
+.cardbody{
+    border: 5px solid black;
+    padding: 4%   ;
+    margin: 2%;
+    font-size: 18px;
+    width: 20%;
+    text-align: center;
+    border-radius: 5%;
+
+}
+.cardbody{
+    display:flex;
+}
+.cardbody img{
+    width: 90%;
+    display: 45%;
+    margin-left: auto;
+    margin-right: auto;
+}
+s{
+    color: brown;
+}
+button{
+    padding: auto;
+    background-color: chartreuse;
+    color: rgb(7, 8, 8);
+    border: black;
+}
+.card{
+    display: flex;
+    flex-wrap: wrap;
+}
+}
+
+
+
